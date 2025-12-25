@@ -1,0 +1,3 @@
+#!/bin/bash
+# Entry point for the framework
+./bin/vfs_engine.rb
